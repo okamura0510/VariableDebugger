@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 885fcc301ead94f2286c0d8e4ba70be0, type: 3}
+  m_Name: GameData
+  m_EditorClassIdentifier: 
+  CameraSpeed: 0.01
+  WalkSpeed: 0.1
+  RunSpeed: 0.2
+  JumpTime: 0.6
+  JumpSpeed: 0.2
+  JumpHeight: 2
+  EnumValue: 0
+  SbyteValue: 1
+  ByteValue: 1
+  ShortValue: 1
+  UshortValue: 1
+  IntValue: 1
+  UintValue: 1
+  LongValue: 1
+  UlongValue: 1
+  CharValue: 112
+  FloatValue: 0.1
+  DoubleValue: 0.1
+  BoolValue: 1
+  StringValue: "\u30D4\u30FC"
+  TimeValue:
+    text: 2022-02-22 22:22:00
+  Vector2Value: {x: 0.1, y: 0.1}
+  Vector3Value: {x: 0.1, y: 0.1, z: 0.1}
+  Vector4Value: {x: 0.1, y: 0.1, z: 0.1, w: 0.1}
+  RectValue:
+    serializedVersion: 2
+    x: 0.1
+    y: 0.1
+    width: 0.1
+    height: 0.1
+  Vector2IntValue: {x: 1, y: 1}
+  Vector3IntValue: {x: 1, y: 1, z: 1}
+  RectIntValue:
+    x: 1
+    y: 1
+    width: 1
+    height: 1
+  QuaternionValue: {x: 0, y: 0, z: 0, w: 1}
+  ColorValue: {r: 0, g: 0, b: 0, a: 1}
+  Color32Value:
+    serializedVersion: 2
+    rgba: 4294967295
+  ArrayValues:
+  - "\u3066\u3064"
+  - "\u30AF\u30ED"
+  - "\u30D4\u30FC"
+  StructArrayValues:
+  - {x: 0.1, y: 0.1}
+  - {x: 0.2, y: 0.2}
